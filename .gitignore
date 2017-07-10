@@ -4,7 +4,6 @@ target/
 .project
 .settings/
 .DS_Store
-*.iml
 *.ipr
 *.iws
 .idea/
